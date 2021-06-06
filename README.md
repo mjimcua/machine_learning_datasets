@@ -39,4 +39,5 @@ API Endpoint: https://data.nasa.gov/resource/gh4g-9sfh.json
 
 Acknowledgements:
 
-Fuente: https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
+NASA
+
