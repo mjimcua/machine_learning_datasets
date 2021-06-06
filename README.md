@@ -39,5 +39,5 @@ API Endpoint: https://data.nasa.gov/resource/gh4g-9sfh.json
 
 Acknowledgements:
 
-NASA
+NASA's Open Data Portal
 
